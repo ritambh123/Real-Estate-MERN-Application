@@ -28,4 +28,4 @@ Prisma Schema for Object Relational Modelling.
 
 SCSS for styling websites, to make them look modern and beautiful.
 
-Credits to Llama Dev Youtube channel for teaching this project.
+Credits to Lama Dev Youtube channel for teaching this project.
